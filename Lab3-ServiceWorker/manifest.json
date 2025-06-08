@@ -1,0 +1,29 @@
+{
+"name": "Program_8",
+
+"short_name": "Program_8",
+
+"start_url": "/my.html",
+
+"display": "fullscreen",
+
+"background_color": "#ffff00",
+
+"description": "A simple applicationfor manifestation",
+
+"orientation": "portrait-primary",
+
+"theme_color":"#2196F3",
+
+"icons": [
+{
+
+"src": "/icons/rvce_logo (1).png",
+
+"sizes": "108x108",
+
+"type": "image/png"
+
+}
+]
+}
